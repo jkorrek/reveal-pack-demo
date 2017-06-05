@@ -1,3 +1,1 @@
-# Image
-
 ![img](test.png)

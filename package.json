@@ -1,0 +1,13 @@
+{
+  "name": "reveal-pack-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Johannes Korrek <johannes.korrek@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "watch": "reveal-pack --watch"
+  },
+  "dependencies": {
+    "reveal-pack": "^1.0.0"
+  }
+}

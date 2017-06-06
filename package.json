@@ -5,7 +5,9 @@
   "author": "Johannes Korrek <johannes.korrek@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "watch": "reveal-pack --watch"
+    "watch": "reveal-pack watch",
+    "build": "reveal-pack build",
+    "help": "reveal-pack --help"
   },
   "dependencies": {
     "reveal-pack": "^1.0.0"
